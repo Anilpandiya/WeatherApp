@@ -1,2 +1,2 @@
 # WeatherApp
-An application that will let you know about forecast information 
+An application that will let you know about current forecast information 
