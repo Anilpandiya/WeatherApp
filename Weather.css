@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin Sketch');
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+@import url('https://fonts.googleapis.com/css?family=Cantarell');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+body{
+	font-family:'Cabin Sketch';
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+h1{
+	margin-left: 260px;
+	font-size: 110px;
+	color: white;
+}
+#app{
+	color:#36D1DC;
+	opacity: 1;
+}
+.detail{
+	font-family:'Cantarell';
+}
+p{
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+	font-family:'Pangolin';
+	color:#ff5858;
+}
+
+.temp{
+  cursor:pointer;
+  color:#006dcc;
+}
+.temp:hover{
+  color:#005096;
+}
+
+#icon{
+	font-size:60px;
+	color:lightblue;
+	opacity:.9;
+	text-shadow:5px 5px px #ffffff;
+}
+
+input{
+	border-radius: 3px;
+	width: 150px;
+	margin-right: 6px;
+	margin-left: 16px;
+
+}
+button{
+	border-radius: 3px;
+	
+}
+
+.social{
+    font-size: 2em;   
+ }
+
+ #a{
+    text-decoration: none;
+    color: #fff;
+    padding-right: 40px;
+    margin-left: 20px;
+    
+  }
+  #a:hover{
+    color: tomato;
+  }
